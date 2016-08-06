@@ -1,7 +1,7 @@
 This package consists of:
 
 * This readme file
-* Sample_Load_ClassSelect.pwn  (inside gamemodes folder)
+* Sample_Load_ClassSelect.pwn
 * Load_ClassSelect.pwn
 
 
