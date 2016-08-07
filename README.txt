@@ -14,3 +14,5 @@ There is documentation inside the gamemode for simplicity
 Load_ClassSelect.pwn
 This is the raw code. It has documentation inside itself and should be easy to use
 
+
+http://forum.sa-mp.com/showthread.php?t=614316
