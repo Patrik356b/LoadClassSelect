@@ -8,7 +8,7 @@
  //=============================================================================================//
 /* Default Configuration
 	Will only be used if the file ClassSelect.inf is missing
-*/
+*/ 
 #define ClassSelect_Player_Pos_X	258.4893
 #define ClassSelect_Player_Pos_Y	-41.4008
 #define ClassSelect_Player_Pos_Z	1002.024
